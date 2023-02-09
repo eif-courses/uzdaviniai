@@ -1,6 +1,9 @@
 <template>
   <div id="app">
+aweaweaw
+erawr
 
+se
 
     <div class="surface-overlay py-3 px-6 shadow-2 flex align-items-center justify-content-between relative lg:static">
       <img src="/images/blocks/logos/hyper.svg" alt="Image" height="50" class="mr-0 lg:mr-5">
